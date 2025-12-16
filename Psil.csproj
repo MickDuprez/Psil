@@ -43,11 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ConsoleReplIo.cs" />
     <Compile Include="Evaluator.cs" />
+    <Compile Include="Interpreter.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="PsilException.cs" />
-    <Compile Include="PsilRepl.cs" />
+    <Compile Include="Repl.cs" />
     <Compile Include="Reader.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -1,5 +1,5 @@
 ﻿namespace Psil {
-  internal class Evaluator {
+  public class Evaluator {
     public Evaluator() {
     }
   }

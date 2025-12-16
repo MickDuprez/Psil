@@ -1,5 +1,5 @@
 ﻿namespace Psil {
-  internal class Reader {
+  public class Reader {
     public Reader() {
     }
   }
